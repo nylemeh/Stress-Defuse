@@ -82,8 +82,7 @@ We approached this project with a full-spectrum testing mindset — covering fun
 
 ## 🧭 Application State Assessment
 
-Based on the requirements document, several **core features** are **non-functional** — resulting in major usability challenges.  
-Two primary functions fail to meet the defined requirements.
+Based on the requirements document, several **core features** are **non-functional** — resulting in major usability challenges. Two primary functions fail to meet the defined requirements.
 
 💡 **Team Conclusion:**  
 > The current build is *not yet production-ready* and requires significant refinement before release.
